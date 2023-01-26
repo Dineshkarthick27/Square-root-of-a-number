@@ -31,7 +31,8 @@ sqroot()
 ```
 
 ## Output:
-![output](a2.jpg)
+![WhatsApp Image 2023-01-26 at 17 47 47](https://user-images.githubusercontent.com/120552008/214834318-79d0f2a7-d25a-4de3-bb72-abcc68b7f048.jpg)
+
 
 
 ## Result:
